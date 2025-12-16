@@ -151,20 +151,8 @@ python gradcam.py --checkpoint model/best_model.pt --class glioma
 
 ---
 
-## 📖 Citation
 
-If you find this work useful in your research, please consider citing:
 
-```bibtex
-@article{se_resnet18_btmri,
-  title={Mitigating Class-wise Bias in Brain Tumor MRI Classification Using SE-ResNet18},
-  author={Your Name},
-  journal={Under Review},
-  year={2025}
-}
-```
-
----
 
 ## 🤝 Acknowledgements
 
@@ -174,9 +162,7 @@ If you find this work useful in your research, please consider citing:
 
 ---
 
-## 📬 Contact
 
-For questions or collaborations, feel free to open an issue or contact:
 
 **Your Name**
 Email: [your.email@domain.com](mailto:your.email@domain.com)
